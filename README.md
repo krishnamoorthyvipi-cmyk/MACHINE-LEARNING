@@ -8,3 +8,4 @@ KNN tool as been used
 
 The data was soursed from internet
 the data was sourced by orange data base
+over profit is high
