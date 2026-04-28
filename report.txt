@@ -3,4 +3,4 @@ After building the daseboard it was found that
 *california had the largest sales.
 *new yorrk had the highest.
 *washington had the lowest sales.
-*overall sales was $5.18 million
+the over all profit new york is high
